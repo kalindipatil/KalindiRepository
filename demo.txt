@@ -2,9 +2,16 @@ trfgfdgf
 
 hello
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 hi....
 =======
 hi..
 >>>>>>> origin/master
+=======
+
+
+
+hi....
+>>>>>>> feature/ticket2
