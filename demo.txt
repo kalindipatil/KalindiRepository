@@ -1,6 +1,10 @@
 trfgfdgf
 
 hello
+<<<<<<< HEAD
 
 
 hi....
+=======
+hi..
+>>>>>>> origin/master
